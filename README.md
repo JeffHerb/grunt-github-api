@@ -1,4 +1,5 @@
 grunt-github-api
 ================
+Dont worry this project isn't gone we have simply [moved to our new home](https://github.com/jonschlinkert/grunt-github-api) as part of the [Assemble Project](https://github.com/organizations/assemble)!
 
-Original Home of the Grunt-Github-API
+See you there!
